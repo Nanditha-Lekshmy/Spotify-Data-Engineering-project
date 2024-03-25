@@ -1,1 +1,1 @@
-# Spotify-Data-Engineering-project
+# Mini Data Engineering project using Spotify data
